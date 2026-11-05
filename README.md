@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis–Excel-Dashboard
+# Vrinda Store Data Analysis – Excel Dashboard
 
 # 1. Project Overview
 
